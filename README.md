@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jlv223
+- 👀 I’m interested in front end development and music
+- 🌱 I’m currently learning project management and javascript
+- 💞️ I’m looking to collaborate on anything
